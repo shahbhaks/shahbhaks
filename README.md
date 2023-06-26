@@ -1,4 +1,4 @@
-- **👋 Hi, I’m @shahbhaks**
+- **👋 Hi, I’m Bhakti**
 - 🔭 I’m currently working on **Java**
 - 👀 I’m interested in **Backend Development**
 - 🌱 I’m currently learning **Low-level Design & SpringBoot**
