@@ -1,7 +1,6 @@
 - **👋 Hi, I’m Bhakti**
 - 🔭 I’m currently working on **Java**
 - 👀 I’m interested in **Backend Development**
-- 🌱 I’m currently learning **Low-level Design & SpringBoot**
 - 💞️ I’m looking to collaborate on **Backend Development Projects**
 - 📫 How to reach me shahbhakti08@gmail.com
 
